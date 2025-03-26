@@ -13,7 +13,7 @@ public class Main {
 		File arquivo_1 = new File("C:\\temp\\numeros_aleatorios_10.txt");
 		File arquivo_2 = new File("C:\\temp\\numeros_aleatorios_5.txt");
 		
-		//Verifica se os arquivos sao validos ou nao
+		//Verifica se os arquivos sao valido ou feijoada
 		if (arquivo_1 == null || !arquivo_1.exists() || arquivo_2 == null || !arquivo_2.exists()) {
 			System.out.println("Erro: Arquivo não encontrado.");
 			sc.close();
