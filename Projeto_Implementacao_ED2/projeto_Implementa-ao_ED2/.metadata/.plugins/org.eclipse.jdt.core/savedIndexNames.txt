@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Projetos\Projetos Academicos\Projeto_Implementacao_ED2\projeto_Implementa-ao_ED2\.metadata\.plugins\org.eclipse.jdt.core
+402408879.index
+246318196.index
+1865797976.index
